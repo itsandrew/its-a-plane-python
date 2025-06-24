@@ -1,0 +1,2 @@
+Raspberry Pi Zero W: https://vilros.com/collections/official-raspberry-pi-accessories/products/raspberry-pi-zero-w?variant=41281571749982
+32x64 LED RGB Panel: https://shop.pimoroni.com/products/rgb-led-matrix-panel?variant=35962488650
